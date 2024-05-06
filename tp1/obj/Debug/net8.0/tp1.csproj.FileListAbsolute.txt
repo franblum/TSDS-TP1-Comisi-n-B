@@ -1,0 +1,14 @@
+C:\Users\sakk_\source\repos\tp1\tp1\bin\Debug\net8.0\tp1.exe
+C:\Users\sakk_\source\repos\tp1\tp1\bin\Debug\net8.0\tp1.deps.json
+C:\Users\sakk_\source\repos\tp1\tp1\bin\Debug\net8.0\tp1.runtimeconfig.json
+C:\Users\sakk_\source\repos\tp1\tp1\bin\Debug\net8.0\tp1.dll
+C:\Users\sakk_\source\repos\tp1\tp1\bin\Debug\net8.0\tp1.pdb
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.AssemblyInfoInputs.cache
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.AssemblyInfo.cs
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.csproj.CoreCompileInputs.cache
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.dll
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\refint\tp1.dll
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.pdb
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\tp1.genruntimeconfig.cache
+C:\Users\sakk_\source\repos\tp1\tp1\obj\Debug\net8.0\ref\tp1.dll
